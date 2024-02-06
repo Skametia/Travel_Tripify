@@ -87,6 +87,7 @@ function Footer() {
             </Link>
           </div>
           <small class="website-rights">𝐓𝐫𝐢𝐩𝐢𝐟𝐲 © 2020</small>
+
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
@@ -131,6 +132,7 @@ function Footer() {
           </div>
         </div>
       </section>
+      <h2>Develop by Sadhana Rathour</h2>
     </div>
   );
 }
